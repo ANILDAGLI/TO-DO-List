@@ -1,2 +1,1 @@
-<X
-xsfasdf
+let yazi_alani = document.getElement 
