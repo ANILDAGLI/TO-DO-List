@@ -15,8 +15,8 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  background-color: #F5E3E0;
 }
-
 
 
 .add-to-list {
@@ -24,13 +24,13 @@
   flex-direction: column;
   border: 2px solid #ccc;
   border-radius: 5px;
-  margin-top: 10px;
+  margin-top: 15px;
   padding: 5px;
 }
 
 .add-to-list button {
-  margin-top: 7px;
-  background-color:crimson;
+  margin-top: 10px;
+  background-color:rgb(20, 47, 220);
   color:white;
   font-size: 15px;
   outline: none;
@@ -38,7 +38,13 @@
   border-radius: 5px;
 }
 
+.add-to-list input {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+  padding: 7px;
+}
+
 .list {
     margin-top: 20px;
 }
-    
