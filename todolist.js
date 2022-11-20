@@ -1,4 +1,6 @@
 
+let sil_butonu = document.getElemntById('ekle-butonu');
+
 let yazi_alani = document.getElementById('yazi-alani');
 let ekle_butonu = document.getElemntById('ekle-butonu');
 let liste = document.getElementById('liste');
