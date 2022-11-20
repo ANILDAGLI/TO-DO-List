@@ -18,3 +18,4 @@ liste.addEventListener('click', (e) => {
         e.target.classList.toggle('tamamlandi');
 }
 });
+
