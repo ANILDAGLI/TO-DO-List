@@ -1,5 +1,5 @@
 
-let sil_butonu = document.getElemntById('ekle-butonu');
+let sil_butonu = document.getElemntById('sil-butonu');
 
 let yazi_alani = document.getElementById('yazi-alani');
 let ekle_butonu = document.getElemntById('ekle-butonu');
