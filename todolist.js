@@ -1,3 +1,5 @@
+// sil butonu çalış
+
 
 let sil_butonu = document.getElemntById('sil-butonu');
 
