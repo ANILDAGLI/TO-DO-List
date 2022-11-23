@@ -13,7 +13,7 @@ ekle_butonu.addEventListener('click', () => {
     let li = document.createElement('li');
     li.innerText =deger;
     liste.insertBefore(li, liste.childNodes[0]);
-    yazi_alani1.value = "";
+    yazi_alani.value = "";
 });
 
 liste.addEventListener('click', (e) => {
