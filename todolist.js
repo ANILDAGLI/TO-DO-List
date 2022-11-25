@@ -1,6 +1,12 @@
-// sil butonu çalış
+//let sesli komut nasıl olur acaba?
 
+// sil butonu çalış
 //let sil_butonu = document.getElemntById('sil-butonu');
+
+
+
+
+
 
 let yazi_alani = document.getElementById('yazi-alani');
 let ekle_butonu = document.getElementById('ekle-butonu');
