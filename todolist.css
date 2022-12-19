@@ -1,4 +1,4 @@
-<<< css düşün araştır >>>
+
 
 body{
   margin:0;
@@ -6,8 +6,6 @@ body{
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
-//ayrı ayrı fontlar koyup değiştirebilirsin 
-//yeni butonlara kutucuklar ekle
 
 *{
 //  margin:0;
@@ -59,3 +57,4 @@ body{
 }
 
 
+.
